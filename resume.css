@@ -13,7 +13,7 @@ h2{margin-top:2%;
       margin-bottom:2%;
 }
 
-#clear{clear:both;}
+.clear{clear:both;}
 .pad{
   padding:3%;
   background-color:#000033;
@@ -51,8 +51,8 @@ h1, #center{text-align:center;
      margin-bottom:0px;
      }
 
-#left{float:left;}
-#right{float:right;}
+.left{float:left;}
+.right{float:right;}
 #bio{ font-size:16pt;
       text-align:center;
       }
