@@ -12,6 +12,8 @@ p,h4{margin-top:2px;
 h2{margin-top:2%;
       margin-bottom:2%;
 }
+
+#clear{clear:both;}
 .pad{
   padding:3%;
   background-color:#000033;
