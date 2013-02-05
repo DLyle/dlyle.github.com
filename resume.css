@@ -30,7 +30,8 @@ h2{margin-top:2%;
 .button{
   background-color:#000033;
   border-style:solid;
-  border:width:1px;
+  border-color:#000033;
+  border-radius:2px;
   margin-left:2%;
   margin-right:2%;
   margin-top:0%;
