@@ -1,6 +1,6 @@
 body {
-  margin-left:22%;
-  margin-right:22%;
+  margin-left:2%;
+  margin-right:2%;
   margin-top:0%;
   margin-bottom:7%;
   background-color:#E0E0E0;
@@ -47,7 +47,7 @@ h1, #center{text-align:center;
             margin-bottom:2px;
 }
 
-#big{font-size:72pt;
+#big{font-size:36pt;
      margin-top:0px;
      margin-bottom:0px;
      }
