@@ -8,13 +8,13 @@ body {
 }
 p,h4{margin-top:2px;
   margin-bottom:2px;
+  font-size:8pt;
 }
-p{font-size:8pt;}
-h4{font-size:12pt;}
+li{font-szie:8pt;}
 
 h2{ margin-top:2%;
     margin-bottom:2%;
-    font-size:16pt;
+    font-size:12pt;
 }
 
 .clear{clear:both;}
@@ -51,6 +51,7 @@ h1, #center{text-align:center;
             margin-bottom:2px;
             font-size:18pt;
 }
+p#center{font-size:10pt;}
 
 #big{font-size:36pt;
      margin-top:0px;
